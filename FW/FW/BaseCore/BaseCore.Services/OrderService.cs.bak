@@ -1,0 +1,56 @@
+using BaseCore.Entities;
+using BaseCore.Repository;
+using Microsoft.EntityFrameworkCore;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+
+namespace BaseCore.Services
+{
+    public interface IOrderService
+    {
+        Task<Order> CreateOrderAsync(Order order);
+        Task<List<Order>> GetOrdersByUserIdAsync(Guid userId);  // ✅ Guid
+        Task<Order?> GetOrderByIdAsync(int id);
+    }
+
+    public class OrderServiceê : IOrderService
+    {
+        private readonly MySqlDbContext _context;
+
+        public OrderServiceê(MySqlDbContext context)
+        {
+            _context = context;
+        }
+
+        public async Task<Order> CreateOrderAsync(Order order)
+        {
+            if (order.Id == 0)
+            {
+                // Id sẽ tự động tăng
+            }
+            order.OrderDate = DateTime.UtcNow;
+            order.Status = "Pending";
+
+            await _context.Orders.AddAsync(order);
+            await _context.SaveChangesAsync();
+            return order;
+        }
+
+        public async Task<List<Order>> GetOrdersByUserIdAsync(Guid userId)
+        {
+            // So sánh Guid với Guid
+            return await _context.Orders
+                .Where(o => o.UserId == userId)  // ✅ Guid == Guid
+                .OrderByDescending(o => o.OrderDate)
+                .ToListAsync();
+        }
+
+        public async Task<Order?> GetOrderByIdAsync(int id)
+        {
+            return await _context.Orders
+                .FirstOrDefaultAsync(o => o.Id == id);
+        }
+    }
+}

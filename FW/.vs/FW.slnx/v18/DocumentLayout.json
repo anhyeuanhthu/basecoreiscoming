@@ -1,0 +1,440 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FW\\FW\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FW\\FW\\FW\\BaseCore\\Examples\\Bai6-JavaScript\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FW\\BaseCore\\Examples\\Bai6-JavaScript\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FW\\FW\\FW\\BaseCore\\Examples\\Bai7-JavaScript-Advanced\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FW\\BaseCore\\Examples\\Bai7-JavaScript-Advanced\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FW\\FW\\FW\\BaseCore\\BaseCore.WebClient\\src\\components\\MainLayout.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FW\\BaseCore\\BaseCore.WebClient\\src\\components\\MainLayout.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FW\\FW\\FW\\BaseCore\\Examples\\Bai7-JavaScript-Advanced\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FW\\BaseCore\\Examples\\Bai7-JavaScript-Advanced\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FW\\FW\\FW\\BaseCore\\BaseCore.AuthService\\ClientApp\\src\\services\\api.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FW\\BaseCore\\BaseCore.AuthService\\ClientApp\\src\\services\\api.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FW\\FW\\FW\\BaseCore\\BaseCore.WebClient\\src\\services\\api.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FW\\BaseCore\\BaseCore.WebClient\\src\\services\\api.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FW\\FW\\FW\\BaseCore\\BaseCore.WebClient\\src\\pages\\Login.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FW\\BaseCore\\BaseCore.WebClient\\src\\pages\\Login.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FW\\FW\\FW\\BaseCore\\BaseCore.APIService\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FW\\BaseCore\\BaseCore.APIService\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FW\\FW\\FW\\BaseCore\\BaseCore.APIService\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FW\\BaseCore\\BaseCore.APIService\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FW\\FW\\FW\\BaseCore\\BaseCore.APIService\\Controllers\\ProductsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FW\\BaseCore\\BaseCore.APIService\\Controllers\\ProductsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FW\\FW\\FW\\BaseCore\\BaseCore.WebClient\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FW\\BaseCore\\BaseCore.WebClient\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FW\\FW\\FW\\BaseCore\\BaseCore.WebClient\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FW\\BaseCore\\BaseCore.WebClient\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FW\\FW\\FW\\BaseCore\\BaseCore.WebClient\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FW\\BaseCore\\BaseCore.WebClient\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FW\\FW\\FW\\BaseCore\\BaseCore.WebClient\\src\\pages\\Dashboard.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FW\\BaseCore\\BaseCore.WebClient\\src\\pages\\Dashboard.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FW\\FW\\FW\\BaseCore\\BaseCore.WebClient\\src\\pages\\Users.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FW\\BaseCore\\BaseCore.WebClient\\src\\pages\\Users.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FW\\FW\\FW\\BaseCore\\BaseCore.WebClient\\src\\pages\\Categories.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FW\\BaseCore\\BaseCore.WebClient\\src\\pages\\Categories.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FW\\FW\\FW\\BaseCore\\BaseCore.WebClient\\src\\App.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FW\\BaseCore\\BaseCore.WebClient\\src\\App.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FW\\FW\\FW\\BaseCore\\BaseCore.WebClient\\package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FW\\BaseCore\\BaseCore.WebClient\\package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FW\\FW\\FW\\BaseCore\\BaseCore.ApiGateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FW\\BaseCore\\BaseCore.ApiGateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FW\\FW\\FW\\BaseCore\\BaseCore.ApiGateway\\BaseCore.ApiGateway.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FW\\BaseCore\\BaseCore.ApiGateway\\BaseCore.ApiGateway.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FW\\FW\\FW\\BaseCore\\BaseCore.ApiGateway\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FW\\BaseCore\\BaseCore.ApiGateway\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FW\\FW\\FW\\BaseCore\\Test\\Worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FW\\BaseCore\\Test\\Worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FW\\FW\\FW\\BaseCore\\Test\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FW\\BaseCore\\Test\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FW\\FW\\FW\\BaseCore\\Test\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FW\\BaseCore\\Test\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainLayout.jsx",
+              "DocumentMoniker": "D:\\FW\\FW\\FW\\BaseCore\\BaseCore.WebClient\\src\\components\\MainLayout.jsx",
+              "RelativeDocumentMoniker": "FW\\BaseCore\\BaseCore.WebClient\\src\\components\\MainLayout.jsx",
+              "ToolTip": "D:\\FW\\FW\\FW\\BaseCore\\BaseCore.WebClient\\src\\components\\MainLayout.jsx",
+              "RelativeToolTip": "FW\\BaseCore\\BaseCore.WebClient\\src\\components\\MainLayout.jsx",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-04-14T10:03:15.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "script.js",
+              "DocumentMoniker": "D:\\FW\\FW\\FW\\BaseCore\\Examples\\Bai6-JavaScript\\script.js",
+              "RelativeDocumentMoniker": "FW\\BaseCore\\Examples\\Bai6-JavaScript\\script.js",
+              "ToolTip": "D:\\FW\\FW\\FW\\BaseCore\\Examples\\Bai6-JavaScript\\script.js",
+              "RelativeToolTip": "FW\\BaseCore\\Examples\\Bai6-JavaScript\\script.js",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-04-14T10:01:11.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "script.js",
+              "DocumentMoniker": "D:\\FW\\FW\\FW\\BaseCore\\Examples\\Bai7-JavaScript-Advanced\\script.js",
+              "RelativeDocumentMoniker": "FW\\BaseCore\\Examples\\Bai7-JavaScript-Advanced\\script.js",
+              "ToolTip": "D:\\FW\\FW\\FW\\BaseCore\\Examples\\Bai7-JavaScript-Advanced\\script.js",
+              "RelativeToolTip": "FW\\BaseCore\\Examples\\Bai7-JavaScript-Advanced\\script.js",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-04-14T10:00:31.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "index.html",
+              "DocumentMoniker": "D:\\FW\\FW\\FW\\BaseCore\\Examples\\Bai7-JavaScript-Advanced\\index.html",
+              "RelativeDocumentMoniker": "FW\\BaseCore\\Examples\\Bai7-JavaScript-Advanced\\index.html",
+              "ToolTip": "D:\\FW\\FW\\FW\\BaseCore\\Examples\\Bai7-JavaScript-Advanced\\index.html",
+              "RelativeToolTip": "FW\\BaseCore\\Examples\\Bai7-JavaScript-Advanced\\index.html",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAIwEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-04-14T09:56:49.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "api.js",
+              "DocumentMoniker": "D:\\FW\\FW\\FW\\BaseCore\\BaseCore.AuthService\\ClientApp\\src\\services\\api.js",
+              "RelativeDocumentMoniker": "FW\\BaseCore\\BaseCore.AuthService\\ClientApp\\src\\services\\api.js",
+              "ToolTip": "D:\\FW\\FW\\FW\\BaseCore\\BaseCore.AuthService\\ClientApp\\src\\services\\api.js",
+              "RelativeToolTip": "FW\\BaseCore\\BaseCore.AuthService\\ClientApp\\src\\services\\api.js",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAACYAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-04-14T09:56:45.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\FW\\FW\\FW\\BaseCore\\BaseCore.APIService\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "FW\\BaseCore\\BaseCore.APIService\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\FW\\FW\\FW\\BaseCore\\BaseCore.APIService\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "FW\\BaseCore\\BaseCore.APIService\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T09:46:21.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "package.json",
+              "DocumentMoniker": "D:\\FW\\FW\\FW\\BaseCore\\BaseCore.WebClient\\package.json",
+              "RelativeDocumentMoniker": "FW\\BaseCore\\BaseCore.WebClient\\package.json",
+              "ToolTip": "D:\\FW\\FW\\FW\\BaseCore\\BaseCore.WebClient\\package.json",
+              "RelativeToolTip": "FW\\BaseCore\\BaseCore.WebClient\\package.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-14T09:46:11.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\FW\\FW\\FW\\BaseCore\\BaseCore.APIService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "FW\\BaseCore\\BaseCore.APIService\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\FW\\FW\\FW\\BaseCore\\BaseCore.APIService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "FW\\BaseCore\\BaseCore.APIService\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-14T09:36:24.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\FW\\FW\\FW\\BaseCore\\BaseCore.APIService\\appsettings.json",
+              "RelativeDocumentMoniker": "FW\\BaseCore\\BaseCore.APIService\\appsettings.json",
+              "ToolTip": "D:\\FW\\FW\\FW\\BaseCore\\BaseCore.APIService\\appsettings.json",
+              "RelativeToolTip": "FW\\BaseCore\\BaseCore.APIService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwA0AAACNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-14T09:08:23.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.jsx",
+              "DocumentMoniker": "D:\\FW\\FW\\FW\\BaseCore\\BaseCore.WebClient\\src\\pages\\Login.jsx",
+              "RelativeDocumentMoniker": "FW\\BaseCore\\BaseCore.WebClient\\src\\pages\\Login.jsx",
+              "ToolTip": "D:\\FW\\FW\\FW\\BaseCore\\BaseCore.WebClient\\src\\pages\\Login.jsx",
+              "RelativeToolTip": "FW\\BaseCore\\BaseCore.WebClient\\src\\pages\\Login.jsx",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-04-14T09:35:22.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "api.js",
+              "DocumentMoniker": "D:\\FW\\FW\\FW\\BaseCore\\BaseCore.WebClient\\src\\services\\api.js",
+              "RelativeDocumentMoniker": "FW\\BaseCore\\BaseCore.WebClient\\src\\services\\api.js",
+              "ToolTip": "D:\\FW\\FW\\FW\\BaseCore\\BaseCore.WebClient\\src\\services\\api.js",
+              "RelativeToolTip": "FW\\BaseCore\\BaseCore.WebClient\\src\\services\\api.js",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAACcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-04-14T09:35:08.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "index.html",
+              "DocumentMoniker": "D:\\FW\\FW\\FW\\BaseCore\\BaseCore.WebClient\\index.html",
+              "RelativeDocumentMoniker": "FW\\BaseCore\\BaseCore.WebClient\\index.html",
+              "ToolTip": "D:\\FW\\FW\\FW\\BaseCore\\BaseCore.WebClient\\index.html",
+              "RelativeToolTip": "FW\\BaseCore\\BaseCore.WebClient\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-04-14T09:46:07.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Dashboard.jsx",
+              "DocumentMoniker": "D:\\FW\\FW\\FW\\BaseCore\\BaseCore.WebClient\\src\\pages\\Dashboard.jsx",
+              "RelativeDocumentMoniker": "FW\\BaseCore\\BaseCore.WebClient\\src\\pages\\Dashboard.jsx",
+              "ToolTip": "D:\\FW\\FW\\FW\\BaseCore\\BaseCore.WebClient\\src\\pages\\Dashboard.jsx",
+              "RelativeToolTip": "FW\\BaseCore\\BaseCore.WebClient\\src\\pages\\Dashboard.jsx",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAAAIMAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-04-14T09:35:31.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Users.jsx",
+              "DocumentMoniker": "D:\\FW\\FW\\FW\\BaseCore\\BaseCore.WebClient\\src\\pages\\Users.jsx",
+              "RelativeDocumentMoniker": "FW\\BaseCore\\BaseCore.WebClient\\src\\pages\\Users.jsx",
+              "ToolTip": "D:\\FW\\FW\\FW\\BaseCore\\BaseCore.WebClient\\src\\pages\\Users.jsx",
+              "RelativeToolTip": "FW\\BaseCore\\BaseCore.WebClient\\src\\pages\\Users.jsx",
+              "ViewState": "AgIAAG4BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-04-14T09:35:47.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "main.jsx",
+              "DocumentMoniker": "D:\\FW\\FW\\FW\\BaseCore\\BaseCore.WebClient\\src\\main.jsx",
+              "RelativeDocumentMoniker": "FW\\BaseCore\\BaseCore.WebClient\\src\\main.jsx",
+              "ToolTip": "D:\\FW\\FW\\FW\\BaseCore\\BaseCore.WebClient\\src\\main.jsx",
+              "RelativeToolTip": "FW\\BaseCore\\BaseCore.WebClient\\src\\main.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-04-14T09:35:02.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Categories.jsx",
+              "DocumentMoniker": "D:\\FW\\FW\\FW\\BaseCore\\BaseCore.WebClient\\src\\pages\\Categories.jsx",
+              "RelativeDocumentMoniker": "FW\\BaseCore\\BaseCore.WebClient\\src\\pages\\Categories.jsx",
+              "ToolTip": "D:\\FW\\FW\\FW\\BaseCore\\BaseCore.WebClient\\src\\pages\\Categories.jsx",
+              "RelativeToolTip": "FW\\BaseCore\\BaseCore.WebClient\\src\\pages\\Categories.jsx",
+              "ViewState": "AgIAAMYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-04-14T09:35:40.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "App.jsx",
+              "DocumentMoniker": "D:\\FW\\FW\\FW\\BaseCore\\BaseCore.WebClient\\src\\App.jsx",
+              "RelativeDocumentMoniker": "FW\\BaseCore\\BaseCore.WebClient\\src\\App.jsx",
+              "ToolTip": "D:\\FW\\FW\\FW\\BaseCore\\BaseCore.WebClient\\src\\App.jsx",
+              "RelativeToolTip": "FW\\BaseCore\\BaseCore.WebClient\\src\\App.jsx",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-04-14T09:34:52.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "package-lock.json",
+              "DocumentMoniker": "D:\\FW\\FW\\FW\\BaseCore\\BaseCore.WebClient\\package-lock.json",
+              "RelativeDocumentMoniker": "FW\\BaseCore\\BaseCore.WebClient\\package-lock.json",
+              "ToolTip": "D:\\FW\\FW\\FW\\BaseCore\\BaseCore.WebClient\\package-lock.json",
+              "RelativeToolTip": "FW\\BaseCore\\BaseCore.WebClient\\package-lock.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-14T09:34:48.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\FW\\FW\\FW\\BaseCore\\BaseCore.ApiGateway\\appsettings.json",
+              "RelativeDocumentMoniker": "FW\\BaseCore\\BaseCore.ApiGateway\\appsettings.json",
+              "ToolTip": "D:\\FW\\FW\\FW\\BaseCore\\BaseCore.ApiGateway\\appsettings.json",
+              "RelativeToolTip": "FW\\BaseCore\\BaseCore.ApiGateway\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-14T09:05:39.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BaseCore.ApiGateway.csproj",
+              "DocumentMoniker": "D:\\FW\\FW\\FW\\BaseCore\\BaseCore.ApiGateway\\BaseCore.ApiGateway.csproj",
+              "RelativeDocumentMoniker": "FW\\BaseCore\\BaseCore.ApiGateway\\BaseCore.ApiGateway.csproj",
+              "ToolTip": "D:\\FW\\FW\\FW\\BaseCore\\BaseCore.ApiGateway\\BaseCore.ApiGateway.csproj",
+              "RelativeToolTip": "FW\\BaseCore\\BaseCore.ApiGateway\\BaseCore.ApiGateway.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-14T09:05:37.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FW\\FW\\FW\\BaseCore\\BaseCore.ApiGateway\\Program.cs",
+              "RelativeDocumentMoniker": "FW\\BaseCore\\BaseCore.ApiGateway\\Program.cs",
+              "ToolTip": "D:\\FW\\FW\\FW\\BaseCore\\BaseCore.ApiGateway\\Program.cs",
+              "RelativeToolTip": "FW\\BaseCore\\BaseCore.ApiGateway\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T09:05:30.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "D:\\FW\\FW\\FW\\BaseCore\\Test\\Worker.cs",
+              "RelativeDocumentMoniker": "FW\\BaseCore\\Test\\Worker.cs",
+              "ToolTip": "D:\\FW\\FW\\FW\\BaseCore\\Test\\Worker.cs",
+              "RelativeToolTip": "FW\\BaseCore\\Test\\Worker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T09:05:20.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FW\\FW\\FW\\BaseCore\\Test\\Program.cs",
+              "RelativeDocumentMoniker": "FW\\BaseCore\\Test\\Program.cs",
+              "ToolTip": "D:\\FW\\FW\\FW\\BaseCore\\Test\\Program.cs",
+              "RelativeToolTip": "FW\\BaseCore\\Test\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T09:05:14.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\FW\\FW\\FW\\BaseCore\\Test\\appsettings.json",
+              "RelativeDocumentMoniker": "FW\\BaseCore\\Test\\appsettings.json",
+              "ToolTip": "D:\\FW\\FW\\FW\\BaseCore\\Test\\appsettings.json",
+              "RelativeToolTip": "FW\\BaseCore\\Test\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-14T09:04:28.574Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 533,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

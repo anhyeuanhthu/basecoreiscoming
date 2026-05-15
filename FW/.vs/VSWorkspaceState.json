@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\FW",
+    "\\FW\\BaseCore",
+    "\\FW\\BaseCore\\BaseCore.WebClient",
+    "\\FW\\BaseCore\\BaseCore.WebClient\\src",
+    "\\FW\\BaseCore\\BaseCore.WebClient\\src\\components",
+    "\\FW\\BaseCore\\Examples\\Bai6-JavaScript",
+    "\\FW\\BaseCore\\Examples\\Bai7-JavaScript-Advanced",
+    "\\FW\\BaseCore\\Test",
+    "\\FW\\BaseCore\\Test\\bin",
+    "\\FW\\BaseCore\\Test\\bin\\Debug"
+  ],
+  "SelectedNode": "\\FW\\BaseCore\\BaseCore.WebClient\\src\\components\\MainLayout.jsx",
+  "PreviewInSolutionExplorer": false
+}

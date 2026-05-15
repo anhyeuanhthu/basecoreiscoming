@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\BaseCore.APIService",
+    "\\BaseCore.APIService\\Controllers",
+    "\\BaseCore.Entities",
+    "\\BaseCore.WebClient",
+    "\\BaseCore.WebClient\\src",
+    "\\BaseCore.WebClient\\src\\components",
+    "\\BaseCore.WebClient\\src\\pages",
+    "\\BaseCore.WebClient\\src\\services",
+    "\\Test"
+  ],
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\BaseCore",
+    "\\BaseCore\\BaseCore.APIService",
+    "\\BaseCore\\BaseCore.APIService\\Controllers",
+    "\\BaseCore\\BaseCore.AuditLog",
+    "\\BaseCore\\BaseCore.AuthService",
+    "\\BaseCore\\BaseCore.Repository",
+    "\\BaseCore\\BaseCore.Repository\\EFCore"
+  ],
+  "SelectedNode": "\\BaseCore\\BaseCore.Repository\\EFCore\\Repository.cs",
+  "PreviewInSolutionExplorer": false
+}
