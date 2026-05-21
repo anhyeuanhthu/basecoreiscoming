@@ -15,3 +15,4 @@ D:\FW\FW\FW\BaseCore\BaseCore.Entities\obj\Debug\net8.0\BaseCore.Entities.dll
 D:\FW\FW\FW\BaseCore\BaseCore.Entities\obj\Debug\net8.0\refint\BaseCore.Entities.dll
 D:\FW\FW\FW\BaseCore\BaseCore.Entities\obj\Debug\net8.0\BaseCore.Entities.pdb
 D:\FW\FW\FW\BaseCore\BaseCore.Entities\obj\Debug\net8.0\ref\BaseCore.Entities.dll
+D:\FW\FW\FW\BaseCore\BaseCore.Entities\obj\Debug\net8.0\BaseCore.Entities.sourcelink.json

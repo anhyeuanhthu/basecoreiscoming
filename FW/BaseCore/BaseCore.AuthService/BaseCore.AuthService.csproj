@@ -19,10 +19,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\BaseCore.Common\BaseCore.Common.csproj" />
-    <ProjectReference Include="..\BaseCore.Entities\BaseCore.Entities.csproj" />
-    <ProjectReference Include="..\BaseCore.Repository\BaseCore.Repository.csproj" />
-    <ProjectReference Include="..\BaseCore.Services\BaseCore.Services.csproj" />
-  </ItemGroup>
+</ItemGroup>
 
 </Project>

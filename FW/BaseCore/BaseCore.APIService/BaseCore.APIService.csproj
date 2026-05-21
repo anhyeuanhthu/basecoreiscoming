@@ -16,9 +16,4 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
   </ItemGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\BaseCore.Entities\BaseCore.Entities.csproj" />
-    <ProjectReference Include="..\BaseCore.Repository\BaseCore.Repository.csproj" />
-  </ItemGroup>
-
 </Project>

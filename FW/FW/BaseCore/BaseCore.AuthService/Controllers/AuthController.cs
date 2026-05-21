@@ -2,6 +2,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 using BaseCore.Common;
 using BaseCore.Services.Authen;
+using System;
 using System.Threading.Tasks;
 
 namespace BaseCore.AuthService.Controllers
@@ -78,13 +79,25 @@ namespace BaseCore.AuthService.Controllers
 
             try
             {
+                var existing = await _userService.GetByUsername(request.Username);
+                if (existing != null)
+                {
+                    return BadRequest(new { message = "Username already exists" });
+                }
+
                 var user = new BaseCore.Entities.User
                 {
+                    Id = Guid.NewGuid().ToString(),
                     UserName = request.Username,
                     Name = request.Name ?? request.Username,
-                    Email = request.Email,
-                    Phone = request.Phone,
-                    UserType = 0 // Default to regular user
+                    Email = request.Email ?? string.Empty,
+                    Phone = request.Phone ?? string.Empty,
+                    Position = string.Empty,
+                    Contact = string.Empty,
+                    Image = string.Empty,
+                    IsActive = true,
+                    UserType = 0, // Default to regular user
+                    Created = DateTime.Now
                 };
 
                 var createdUser = await _userService.Create(user, request.Password);
@@ -93,7 +106,12 @@ namespace BaseCore.AuthService.Controllers
             }
             catch (System.Exception ex)
             {
-                return BadRequest(new { message = "Registration failed: " + ex.Message });
+                var detail = ex.InnerException?.Message ?? ex.Message;
+                Console.WriteLine($"Register error: {ex.Message}");
+                if (ex.InnerException != null)
+                    Console.WriteLine($"Inner: {ex.InnerException.Message}");
+
+                return BadRequest(new { message = "Registration failed: " + detail });
             }
         }
     }

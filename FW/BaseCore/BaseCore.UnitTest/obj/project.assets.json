@@ -2195,36 +2195,6 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
-      },
-      "BaseCore.Common/1.0.0": {
-        "type": "project",
-        "framework": "Unsupported,Version=v0.0",
-        "compile": {
-          "bin/placeholder/BaseCore.Common.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/BaseCore.Common.dll": {}
-        }
-      },
-      "BaseCore.Libs/1.0.0": {
-        "type": "project",
-        "framework": "Unsupported,Version=v0.0",
-        "compile": {
-          "bin/placeholder/BaseCore.Libs.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/BaseCore.Libs.dll": {}
-        }
-      },
-      "BaseCore.Repository/1.0.0": {
-        "type": "project",
-        "framework": "Unsupported,Version=v0.0",
-        "compile": {
-          "bin/placeholder/BaseCore.Repository.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/BaseCore.Repository.dll": {}
-        }
       }
     }
   },
@@ -6633,28 +6603,10 @@
         "system.xml.xpath.xmldocument.4.3.0.nupkg.sha512",
         "system.xml.xpath.xmldocument.nuspec"
       ]
-    },
-    "BaseCore.Common/1.0.0": {
-      "type": "project",
-      "path": "../BaseCore.Common/BaseCore.Common.csproj",
-      "msbuildProject": "../BaseCore.Common/BaseCore.Common.csproj"
-    },
-    "BaseCore.Libs/1.0.0": {
-      "type": "project",
-      "path": "../BaseCore.Libs/BaseCore.Libs.csproj",
-      "msbuildProject": "../BaseCore.Libs/BaseCore.Libs.csproj"
-    },
-    "BaseCore.Repository/1.0.0": {
-      "type": "project",
-      "path": "../BaseCore.Repository/BaseCore.Repository.csproj",
-      "msbuildProject": "../BaseCore.Repository/BaseCore.Repository.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.2": [
-      "BaseCore.Common >= 1.0.0",
-      "BaseCore.Libs >= 1.0.0",
-      "BaseCore.Repository >= 1.0.0",
       "Microsoft.Extensions.Configuration >= 3.1.2",
       "Microsoft.Extensions.Configuration.Json >= 3.1.2",
       "Microsoft.NET.Test.Sdk >= 15.9.0",
@@ -6669,11 +6621,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\FW\\FW\\BaseCore\\BaseCore.UnitTest\\BaseCore.UnitTest.csproj",
+      "projectUniqueName": "d:\\FW\\FW\\BaseCore\\BaseCore.UnitTest\\BaseCore.UnitTest.csproj",
       "projectName": "BaseCore.UnitTest",
-      "projectPath": "D:\\FW\\FW\\BaseCore\\BaseCore.UnitTest\\BaseCore.UnitTest.csproj",
+      "projectPath": "d:\\FW\\FW\\BaseCore\\BaseCore.UnitTest\\BaseCore.UnitTest.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\FW\\FW\\BaseCore\\BaseCore.UnitTest\\obj\\",
+      "outputPath": "d:\\FW\\FW\\BaseCore\\BaseCore.UnitTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6690,17 +6642,7 @@
       "frameworks": {
         "netcoreapp2.2": {
           "targetAlias": "netcoreapp2.2",
-          "projectReferences": {
-            "D:\\FW\\FW\\BaseCore\\BaseCore.Common\\BaseCore.Common.csproj": {
-              "projectPath": "D:\\FW\\FW\\BaseCore\\BaseCore.Common\\BaseCore.Common.csproj"
-            },
-            "D:\\FW\\FW\\BaseCore\\BaseCore.Libs\\BaseCore.Libs.csproj": {
-              "projectPath": "D:\\FW\\FW\\BaseCore\\BaseCore.Libs\\BaseCore.Libs.csproj"
-            },
-            "D:\\FW\\FW\\BaseCore\\BaseCore.Repository\\BaseCore.Repository.csproj": {
-              "projectPath": "D:\\FW\\FW\\BaseCore\\BaseCore.Repository\\BaseCore.Repository.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
@@ -6788,33 +6730,6 @@
       "warningLevel": 1,
       "message": "Package 'Microsoft.NETCore.App' 2.2.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-x5qj-9vmx-7g6g",
       "libraryId": "Microsoft.NETCore.App",
-      "targetGraphs": [
-        ".NETCoreApp,Version=v2.2"
-      ]
-    },
-    {
-      "code": "NU1201",
-      "level": "Error",
-      "message": "Project BaseCore.Common is not compatible with netcoreapp2.2 (.NETCoreApp,Version=v2.2). Project BaseCore.Common supports: net8.0 (.NETCoreApp,Version=v8.0)",
-      "libraryId": "BaseCore.Common",
-      "targetGraphs": [
-        ".NETCoreApp,Version=v2.2"
-      ]
-    },
-    {
-      "code": "NU1201",
-      "level": "Error",
-      "message": "Project BaseCore.Libs is not compatible with netcoreapp2.2 (.NETCoreApp,Version=v2.2). Project BaseCore.Libs supports: net8.0 (.NETCoreApp,Version=v8.0)",
-      "libraryId": "BaseCore.Libs",
-      "targetGraphs": [
-        ".NETCoreApp,Version=v2.2"
-      ]
-    },
-    {
-      "code": "NU1201",
-      "level": "Error",
-      "message": "Project BaseCore.Repository is not compatible with netcoreapp2.2 (.NETCoreApp,Version=v2.2). Project BaseCore.Repository supports: net8.0 (.NETCoreApp,Version=v8.0)",
-      "libraryId": "BaseCore.Repository",
       "targetGraphs": [
         ".NETCoreApp,Version=v2.2"
       ]

@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { useNavigate } from 'react-router-dom';
+import { Link, useLocation, useNavigate } from 'react-router-dom';
 import { useAuth } from '../contexts/AuthContext';
 
 const Login = () => {
@@ -8,6 +8,7 @@ const Login = () => {
     const [error, setError] = useState('');
     const [loading, setLoading] = useState(false);
     const navigate = useNavigate();
+    const location = useLocation();
     const { login } = useAuth();
 
     const handleSubmit = async (e) => {
@@ -33,6 +34,11 @@ const Login = () => {
                 <div className="card">
                     <div className="card-body login-card-body">
                         <p className="login-box-msg">Sign in to start your session</p>
+                        {location.state?.message && (
+                            <div className="alert alert-success">
+                                {location.state.message}
+                            </div>
+                        )}
                         {error && (
                             <div className="alert alert-danger alert-dismissible">
                                 <button type="button" className="close" onClick={() => setError('')}>&times;</button>
@@ -68,6 +74,11 @@ const Login = () => {
                                 </div>
                             </div>
                         </form>
+                        <div className="mt-3 text-center">
+                            <Link to="/register" className="btn btn-outline-primary btn-block">
+                                Create a new account
+                            </Link>
+                        </div>
                     </div>
                 </div>
             </div>

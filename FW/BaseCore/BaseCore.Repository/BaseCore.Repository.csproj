@@ -20,10 +20,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\BaseCore.Common\BaseCore.Common.csproj" />
-    <ProjectReference Include="..\BaseCore.DTO\BaseCore.DTO.csproj" />
-    <ProjectReference Include="..\BaseCore.Entities\BaseCore.Entities.csproj" />
-    <ProjectReference Include="..\BaseCore.Libs\BaseCore.Libs.csproj" />
-  </ItemGroup>
+</ItemGroup>
 
 </Project>

@@ -4552,7 +4552,6 @@
       },
       "frameworks": {
         "net8.0": {
-          "framework": "net8.0",
           "targetAlias": "net8.0",
           "projectReferences": {
             "D:\\FW\\FW\\FW\\BaseCore\\BaseCore.Common\\BaseCore.Common.csproj": {
@@ -4584,7 +4583,6 @@
     },
     "frameworks": {
       "net8.0": {
-        "framework": "net8.0",
         "targetAlias": "net8.0",
         "dependencies": {
           "Microsoft.EntityFrameworkCore.Design": {

@@ -22,9 +22,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\BaseCore.Common\BaseCore.Common.csproj" />
-    <ProjectReference Include="..\BaseCore.Libs\BaseCore.Libs.csproj" />
-    <ProjectReference Include="..\BaseCore.Repository\BaseCore.Repository.csproj" />
-  </ItemGroup>
+</ItemGroup>
 
 </Project>

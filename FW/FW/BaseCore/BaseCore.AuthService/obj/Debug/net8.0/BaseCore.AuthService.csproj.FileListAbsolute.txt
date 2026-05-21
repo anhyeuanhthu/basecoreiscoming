@@ -4,11 +4,6 @@ D:\FW\FW\FW\BaseCore\BaseCore.AuthService\bin\Debug\net8.0\ClientApp\package-loc
 D:\FW\FW\FW\BaseCore\BaseCore.AuthService\bin\Debug\net8.0\ClientApp\package.json
 D:\FW\FW\FW\BaseCore\BaseCore.AuthService\bin\Debug\net8.0\BaseCore.AuthService.staticwebassets.runtime.json
 D:\FW\FW\FW\BaseCore\BaseCore.AuthService\bin\Debug\net8.0\BaseCore.AuthService.staticwebassets.endpoints.json
-D:\FW\FW\FW\BaseCore\BaseCore.AuthService\bin\Debug\net8.0\BaseCore.AuthService.exe
-D:\FW\FW\FW\BaseCore\BaseCore.AuthService\bin\Debug\net8.0\BaseCore.AuthService.deps.json
-D:\FW\FW\FW\BaseCore\BaseCore.AuthService\bin\Debug\net8.0\BaseCore.AuthService.runtimeconfig.json
-D:\FW\FW\FW\BaseCore\BaseCore.AuthService\bin\Debug\net8.0\BaseCore.AuthService.dll
-D:\FW\FW\FW\BaseCore\BaseCore.AuthService\bin\Debug\net8.0\BaseCore.AuthService.pdb
 D:\FW\FW\FW\BaseCore\BaseCore.AuthService\bin\Debug\net8.0\AutoMapper.dll
 D:\FW\FW\FW\BaseCore\BaseCore.AuthService\bin\Debug\net8.0\Azure.Core.dll
 D:\FW\FW\FW\BaseCore\BaseCore.AuthService\bin\Debug\net8.0\Azure.Identity.dll
@@ -150,6 +145,7 @@ D:\FW\FW\FW\BaseCore\BaseCore.AuthService\obj\Debug\net8.0\BaseCore.AuthService.
 D:\FW\FW\FW\BaseCore\BaseCore.AuthService\obj\Debug\net8.0\BaseCore.AuthService.MvcApplicationPartsAssemblyInfo.cache
 D:\FW\FW\FW\BaseCore\BaseCore.AuthService\obj\Debug\net8.0\BaseCore.AuthService.RazorAssemblyInfo.cache
 D:\FW\FW\FW\BaseCore\BaseCore.AuthService\obj\Debug\net8.0\BaseCore.AuthService.RazorAssemblyInfo.cs
+D:\FW\FW\FW\BaseCore\BaseCore.AuthService\obj\Debug\net8.0\BaseCore.AuthService.sourcelink.json
 D:\FW\FW\FW\BaseCore\BaseCore.AuthService\obj\Debug\net8.0\rjimswa.dswa.cache.json
 D:\FW\FW\FW\BaseCore\BaseCore.AuthService\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
 D:\FW\FW\FW\BaseCore\BaseCore.AuthService\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
@@ -159,10 +155,13 @@ D:\FW\FW\FW\BaseCore\BaseCore.AuthService\obj\Debug\net8.0\staticwebassets.build
 D:\FW\FW\FW\BaseCore\BaseCore.AuthService\obj\Debug\net8.0\staticwebassets.development.json
 D:\FW\FW\FW\BaseCore\BaseCore.AuthService\obj\Debug\net8.0\staticwebassets.build.endpoints.json
 D:\FW\FW\FW\BaseCore\BaseCore.AuthService\obj\Debug\net8.0\swae.build.ex.cache
-D:\FW\FW\FW\BaseCore\BaseCore.AuthService\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 D:\FW\FW\FW\BaseCore\BaseCore.AuthService\obj\Debug\net8.0\BaseCore.A4C47D7E.Up2Date
 D:\FW\FW\FW\BaseCore\BaseCore.AuthService\obj\Debug\net8.0\BaseCore.AuthService.dll
 D:\FW\FW\FW\BaseCore\BaseCore.AuthService\obj\Debug\net8.0\refint\BaseCore.AuthService.dll
 D:\FW\FW\FW\BaseCore\BaseCore.AuthService\obj\Debug\net8.0\BaseCore.AuthService.pdb
+D:\FW\FW\FW\BaseCore\BaseCore.AuthService\bin\Debug\net8.0\BaseCore.AuthService.deps.json
+D:\FW\FW\FW\BaseCore\BaseCore.AuthService\bin\Debug\net8.0\BaseCore.AuthService.runtimeconfig.json
+D:\FW\FW\FW\BaseCore\BaseCore.AuthService\bin\Debug\net8.0\BaseCore.AuthService.dll
 D:\FW\FW\FW\BaseCore\BaseCore.AuthService\obj\Debug\net8.0\BaseCore.AuthService.genruntimeconfig.cache
+D:\FW\FW\FW\BaseCore\BaseCore.AuthService\bin\Debug\net8.0\BaseCore.AuthService.pdb
 D:\FW\FW\FW\BaseCore\BaseCore.AuthService\obj\Debug\net8.0\ref\BaseCore.AuthService.dll

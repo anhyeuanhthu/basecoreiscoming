@@ -131,3 +131,4 @@ D:\FW\FW\FW\BaseCore\BaseCore.Libs\obj\Debug\net8.0\BaseCore.Libs.dll
 D:\FW\FW\FW\BaseCore\BaseCore.Libs\obj\Debug\net8.0\refint\BaseCore.Libs.dll
 D:\FW\FW\FW\BaseCore\BaseCore.Libs\obj\Debug\net8.0\BaseCore.Libs.pdb
 D:\FW\FW\FW\BaseCore\BaseCore.Libs\obj\Debug\net8.0\ref\BaseCore.Libs.dll
+D:\FW\FW\FW\BaseCore\BaseCore.Libs\obj\Debug\net8.0\BaseCore.Libs.sourcelink.json

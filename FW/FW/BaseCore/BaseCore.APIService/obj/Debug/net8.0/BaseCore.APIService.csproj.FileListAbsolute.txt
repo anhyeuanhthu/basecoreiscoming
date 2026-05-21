@@ -146,7 +146,6 @@ D:\FW\FW\FW\BaseCore\BaseCore.APIService\obj\Debug\net8.0\staticwebassets.build.
 D:\FW\FW\FW\BaseCore\BaseCore.APIService\obj\Debug\net8.0\staticwebassets.development.json
 D:\FW\FW\FW\BaseCore\BaseCore.APIService\obj\Debug\net8.0\staticwebassets.build.endpoints.json
 D:\FW\FW\FW\BaseCore\BaseCore.APIService\obj\Debug\net8.0\swae.build.ex.cache
-D:\FW\FW\FW\BaseCore\BaseCore.APIService\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 D:\FW\FW\FW\BaseCore\BaseCore.APIService\obj\Debug\net8.0\BaseCore.C709CDC1.Up2Date
 D:\FW\FW\FW\BaseCore\BaseCore.APIService\obj\Debug\net8.0\BaseCore.APIService.dll
 D:\FW\FW\FW\BaseCore\BaseCore.APIService\obj\Debug\net8.0\refint\BaseCore.APIService.dll
@@ -154,3 +153,4 @@ D:\FW\FW\FW\BaseCore\BaseCore.APIService\obj\Debug\net8.0\BaseCore.APIService.pd
 D:\FW\FW\FW\BaseCore\BaseCore.APIService\obj\Debug\net8.0\BaseCore.APIService.genruntimeconfig.cache
 D:\FW\FW\FW\BaseCore\BaseCore.APIService\obj\Debug\net8.0\ref\BaseCore.APIService.dll
 D:\FW\FW\FW\BaseCore\BaseCore.APIService\bin\Debug\net8.0\BaseCore.APIService.staticwebassets.runtime.json
+D:\FW\FW\FW\BaseCore\BaseCore.APIService\obj\Debug\net8.0\BaseCore.APIService.sourcelink.json

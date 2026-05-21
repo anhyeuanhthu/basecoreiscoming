@@ -6,6 +6,7 @@ import ProtectedRoute from './components/ProtectedRoute';
 import MainLayout from './components/MainLayout';
 import UserLayout from './components/UserLayout';
 import Login from './pages/Login';
+import Register from './pages/Register';
 import Dashboard from './pages/Dashboard';
 import Products from './pages/Products';
 import Users from './pages/Users';
@@ -19,6 +20,7 @@ function AppRoutes() {
     return (
         <Routes>
             <Route path="/login" element={<Login />} />
+            <Route path="/register" element={<Register />} />
 
             {/* User routes */}
             <Route path="/shop" element={

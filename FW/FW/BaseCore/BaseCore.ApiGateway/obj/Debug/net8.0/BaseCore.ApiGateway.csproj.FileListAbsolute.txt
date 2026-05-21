@@ -311,10 +311,10 @@ D:\FW\FW\FW\BaseCore\BaseCore.ApiGateway\obj\Debug\net8.0\staticwebassets.build.
 D:\FW\FW\FW\BaseCore\BaseCore.ApiGateway\obj\Debug\net8.0\staticwebassets.development.json
 D:\FW\FW\FW\BaseCore\BaseCore.ApiGateway\obj\Debug\net8.0\staticwebassets.build.endpoints.json
 D:\FW\FW\FW\BaseCore\BaseCore.ApiGateway\obj\Debug\net8.0\swae.build.ex.cache
-D:\FW\FW\FW\BaseCore\BaseCore.ApiGateway\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 D:\FW\FW\FW\BaseCore\BaseCore.ApiGateway\obj\Debug\net8.0\BaseCore.603A33FC.Up2Date
 D:\FW\FW\FW\BaseCore\BaseCore.ApiGateway\obj\Debug\net8.0\BaseCore.ApiGateway.dll
 D:\FW\FW\FW\BaseCore\BaseCore.ApiGateway\obj\Debug\net8.0\refint\BaseCore.ApiGateway.dll
 D:\FW\FW\FW\BaseCore\BaseCore.ApiGateway\obj\Debug\net8.0\BaseCore.ApiGateway.pdb
 D:\FW\FW\FW\BaseCore\BaseCore.ApiGateway\obj\Debug\net8.0\BaseCore.ApiGateway.genruntimeconfig.cache
 D:\FW\FW\FW\BaseCore\BaseCore.ApiGateway\obj\Debug\net8.0\ref\BaseCore.ApiGateway.dll
+D:\FW\FW\FW\BaseCore\BaseCore.ApiGateway\obj\Debug\net8.0\BaseCore.ApiGateway.sourcelink.json

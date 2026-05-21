@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\FW\\FW\\FW\\BaseCore\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FW\\FW\\FW\\BaseCore\\BaseCore.WebClient\\src\\App.jsx||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BaseCore.WebClient\\src\\App.jsx||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FDA236EF-0483-4535-AD20-6B3FA474369C}|BaseCore.Entities\\BaseCore.Entities.csproj|d:\\fw\\fw\\fw\\basecore\\basecore.entities\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FDA236EF-0483-4535-AD20-6B3FA474369C}|BaseCore.Entities\\BaseCore.Entities.csproj|solutionrelative:basecore.entities\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -93,10 +97,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{9C747753-99CA-4281-BE7D-1711BA222237}|BaseCore.Repository\\BaseCore.Repository.csproj|d:\\fw\\fw\\fw\\basecore\\basecore.repository\\efcore\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9C747753-99CA-4281-BE7D-1711BA222237}|BaseCore.Repository\\BaseCore.Repository.csproj|solutionrelative:basecore.repository\\efcore\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FW\\FW\\FW\\BaseCore\\BaseCore.WebClient\\src\\App.jsx||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BaseCore.WebClient\\src\\App.jsx||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B1C2D3E4-F5A6-7890-BCDE-F12345678901}|BaseCore.APIService\\BaseCore.APIService.csproj|d:\\fw\\fw\\fw\\basecore\\basecore.apiservice\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -218,7 +218,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 16,
+          "SelectedChildIndex": 17,
           "Children": [
             {
               "$type": "Bookmark",
@@ -247,18 +247,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "ProductImageRepository.cs",
-              "DocumentMoniker": "D:\\FW\\FW\\FW\\BaseCore\\BaseCore.Repository\\EFCore\\ProductImageRepository.cs",
-              "RelativeDocumentMoniker": "BaseCore.Repository\\EFCore\\ProductImageRepository.cs",
-              "ToolTip": "D:\\FW\\FW\\FW\\BaseCore\\BaseCore.Repository\\EFCore\\ProductImageRepository.cs",
-              "RelativeToolTip": "BaseCore.Repository\\EFCore\\ProductImageRepository.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAcwB0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-14T07:13:11.07Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "ProductImage.cs",
               "DocumentMoniker": "D:\\FW\\FW\\FW\\BaseCore\\BaseCore.Entities\\ProductImage.cs",
               "RelativeDocumentMoniker": "BaseCore.Entities\\ProductImage.cs",
@@ -270,7 +258,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "OrderRepository.cs",
               "DocumentMoniker": "D:\\FW\\FW\\FW\\BaseCore\\BaseCore.Repository\\EFCore\\OrderRepository.cs",
               "RelativeDocumentMoniker": "BaseCore.Repository\\EFCore\\OrderRepository.cs",
@@ -282,7 +270,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\FW\\FW\\FW\\BaseCore\\BaseCore.AuthService\\appsettings.json",
               "RelativeDocumentMoniker": "BaseCore.AuthService\\appsettings.json",
@@ -294,7 +282,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "D:\\FW\\FW\\FW\\BaseCore\\BaseCore.Repository\\EFCore\\UserRepository.cs",
               "RelativeDocumentMoniker": "BaseCore.Repository\\EFCore\\UserRepository.cs",
@@ -306,7 +294,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MySqlDbContext.cs",
               "DocumentMoniker": "D:\\FW\\FW\\FW\\BaseCore\\BaseCore.Repository\\MySqlDbContext.cs",
               "RelativeDocumentMoniker": "BaseCore.Repository\\MySqlDbContext.cs",
@@ -314,12 +302,11 @@
               "RelativeToolTip": "BaseCore.Repository\\MySqlDbContext.cs",
               "ViewState": "AgIAACUAAAAAAAAAAADwv1kAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-07T02:52:04.013Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-07T02:52:04.013Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "UserController.cs",
               "DocumentMoniker": "D:\\FW\\FW\\FW\\BaseCore\\BaseCore.AuthService\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "BaseCore.AuthService\\Controllers\\UserController.cs",
@@ -331,7 +318,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "D:\\FW\\FW\\FW\\BaseCore\\BaseCore.APIService\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "BaseCore.APIService\\Controllers\\ProductsController.cs",
@@ -343,7 +330,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Product.cs",
               "DocumentMoniker": "D:\\FW\\FW\\FW\\BaseCore\\BaseCore.Entities\\Product.cs",
               "RelativeDocumentMoniker": "BaseCore.Entities\\Product.cs",
@@ -355,7 +342,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\FW\\FW\\FW\\BaseCore\\BaseCore.APIService\\Program.cs",
               "RelativeDocumentMoniker": "BaseCore.APIService\\Program.cs",
@@ -367,7 +354,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "OrderDetail.cs",
               "DocumentMoniker": "D:\\FW\\FW\\FW\\BaseCore\\BaseCore.Entities\\OrderDetail.cs",
               "RelativeDocumentMoniker": "BaseCore.Entities\\OrderDetail.cs",
@@ -379,12 +366,8 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "UserShop.jsx",
               "DocumentMoniker": "D:\\FW\\FW\\FW\\BaseCore\\BaseCore.WebClient\\src\\pages\\UserShop.jsx",
               "RelativeDocumentMoniker": "BaseCore.WebClient\\src\\pages\\UserShop.jsx",
@@ -392,12 +375,40 @@
               "RelativeToolTip": "BaseCore.WebClient\\src\\pages\\UserShop.jsx",
               "ViewState": "AgIAAOEAAAAAAAAAAAAowHwBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2026-04-25T15:48:55.213Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-25T15:48:55.213Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
+              "Title": "App.jsx",
+              "DocumentMoniker": "D:\\FW\\FW\\FW\\BaseCore\\BaseCore.WebClient\\src\\App.jsx",
+              "RelativeDocumentMoniker": "BaseCore.WebClient\\src\\App.jsx",
+              "ToolTip": "D:\\FW\\FW\\FW\\BaseCore\\BaseCore.WebClient\\src\\App.jsx",
+              "RelativeToolTip": "BaseCore.WebClient\\src\\App.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-04-21T10:12:02.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductImageRepository.cs",
+              "DocumentMoniker": "D:\\FW\\FW\\FW\\BaseCore\\BaseCore.Repository\\EFCore\\ProductImageRepository.cs",
+              "RelativeDocumentMoniker": "BaseCore.Repository\\EFCore\\ProductImageRepository.cs",
+              "ToolTip": "D:\\FW\\FW\\FW\\BaseCore\\BaseCore.Repository\\EFCore\\ProductImageRepository.cs",
+              "RelativeToolTip": "BaseCore.Repository\\EFCore\\ProductImageRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAcwB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T07:13:11.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Products.jsx",
               "DocumentMoniker": "D:\\FW\\FW\\FW\\BaseCore\\BaseCore.WebClient\\src\\pages\\Products.jsx",
               "RelativeDocumentMoniker": "BaseCore.WebClient\\src\\pages\\Products.jsx",
@@ -409,7 +420,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "package.json",
               "DocumentMoniker": "D:\\FW\\FW\\FW\\BaseCore\\BaseCore.WebClient\\package.json",
               "RelativeDocumentMoniker": "BaseCore.WebClient\\package.json",
@@ -421,7 +432,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "package-lock.json",
               "DocumentMoniker": "D:\\FW\\FW\\FW\\BaseCore\\BaseCore.WebClient\\package-lock.json",
               "RelativeDocumentMoniker": "BaseCore.WebClient\\package-lock.json",
@@ -433,7 +444,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "vite.config.js",
               "DocumentMoniker": "D:\\FW\\FW\\FW\\BaseCore\\BaseCore.WebClient\\vite.config.js",
               "RelativeDocumentMoniker": "BaseCore.WebClient\\vite.config.js",
@@ -445,7 +456,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "OrdersController.cs",
               "DocumentMoniker": "D:\\FW\\FW\\FW\\BaseCore\\BaseCore.APIService\\Controllers\\OrdersController.cs",
               "RelativeDocumentMoniker": "BaseCore.APIService\\Controllers\\OrdersController.cs",
@@ -481,7 +492,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "ocelot.json",
               "DocumentMoniker": "D:\\FW\\FW\\FW\\BaseCore\\BaseCore.ApiGateway\\ocelot.json",
               "RelativeDocumentMoniker": "BaseCore.ApiGateway\\ocelot.json",
@@ -493,7 +504,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "api.js",
               "DocumentMoniker": "D:\\FW\\FW\\FW\\BaseCore\\BaseCore.WebClient\\src\\services\\api.js",
               "RelativeDocumentMoniker": "BaseCore.WebClient\\src\\services\\api.js",
@@ -517,7 +528,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "AdminOrders.jsx",
               "DocumentMoniker": "D:\\FW\\FW\\FW\\BaseCore\\BaseCore.WebClient\\src\\pages\\AdminOrders.jsx",
               "RelativeDocumentMoniker": "BaseCore.WebClient\\src\\pages\\AdminOrders.jsx",
@@ -529,7 +540,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "UserService.cs",
               "DocumentMoniker": "D:\\FW\\FW\\FW\\BaseCore\\BaseCore.Services\\Authen\\UserService.cs",
               "RelativeDocumentMoniker": "BaseCore.Services\\Authen\\UserService.cs",
@@ -541,7 +552,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "MainLayout.jsx",
               "DocumentMoniker": "D:\\FW\\FW\\FW\\BaseCore\\BaseCore.WebClient\\src\\components\\MainLayout.jsx",
               "RelativeDocumentMoniker": "BaseCore.WebClient\\src\\components\\MainLayout.jsx",
@@ -553,7 +564,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "D:\\FW\\FW\\FW\\BaseCore\\BaseCore.Repository\\Authen\\UserRepository.cs",
               "RelativeDocumentMoniker": "BaseCore.Repository\\Authen\\UserRepository.cs",
@@ -562,18 +573,6 @@
               "ViewState": "AgIAACYAAAAAAAAAAAAcwGUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-04T16:17:06.959Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "App.jsx",
-              "DocumentMoniker": "D:\\FW\\FW\\FW\\BaseCore\\BaseCore.WebClient\\src\\App.jsx",
-              "RelativeDocumentMoniker": "BaseCore.WebClient\\src\\App.jsx",
-              "ToolTip": "D:\\FW\\FW\\FW\\BaseCore\\BaseCore.WebClient\\src\\App.jsx",
-              "RelativeToolTip": "BaseCore.WebClient\\src\\App.jsx",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAAEYAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2026-04-21T10:12:02.636Z"
             },
             {
               "$type": "Document",

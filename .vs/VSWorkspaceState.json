@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "\\.github",
+    "\\FW\\BaseCore\\BaseCore.WebClient",
+    "\\FW\\BaseCore\\BaseCore.WebClient\\src",
+    "\\FW\\FW\\BaseCore",
+    "\\FW\\FW\\BaseCore\\BaseCore.WebClient\\src",
+    "\\FW\\FW\\BaseCore\\BaseCore.WebClient\\src\\pages"
+  ],
+  "PreviewInSolutionExplorer": false
+}
